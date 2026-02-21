@@ -380,9 +380,6 @@ padding-top: 50px;
     width: 18.75rem;
 }
 
-
-
-
 /* Footer */
 
 .img3{
@@ -433,8 +430,9 @@ letter-spacing: -0.3px;
 }
 
 .email{
+	padding: 15px
     height: 50px;
-	width: 255px;
+	width: 78%;
     background: rgba(136, 156, 173, 0.24);
     border-radius: 8px;
     border: none;
@@ -477,3 +475,4 @@ letter-spacing: -0.3px;
     transform: translateY(2px);
     box-shadow: 0 2px 0 #1f3547;
 }
+
